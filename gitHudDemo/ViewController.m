@@ -22,6 +22,8 @@
     
     NSLog(@"jdksafl");
     
+    NSLog(@"你妹啊！！");
+    
 }
 
 - (void)didReceiveMemoryWarning {
